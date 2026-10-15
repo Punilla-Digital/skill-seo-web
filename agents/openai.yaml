@@ -1,0 +1,14 @@
+interface:
+  display_name: SEO Web
+  short_description: SEO, vistas previas sociales, sitemap y favicons
+  default_prompt: Usá $seo-web para auditar e implementar el SEO de mi sitio, sus
+    vistas previas sociales, sitemap, robots.txt y favicons.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
